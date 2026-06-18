@@ -3,7 +3,7 @@
   "name": "Athm",
   "aka": "returnil",
   "role": "builder / breaker",
-  "focus": ["OffensiveSec", "DevOps", "Tooling"],
+  "focus": ["OffensiveSec", "DevSecOps", "Tooling"],
   "langs": null,
   "projects": null, 
 }
